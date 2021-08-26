@@ -4,10 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
 I am a first year graduate student in the Master of Statistics program. I am taking 12 credits this semester:
 * ST501 Fundamentals of Statistical Inference I
 * ST534 Applied Time Series
