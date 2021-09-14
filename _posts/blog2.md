@@ -3,10 +3,6 @@ Programming Background
 David Shaw
 9/14/2021
 
-``` r
-knitr::opts_chunk$set(fig.path = "../images/")
-```
-
 ## Programming Background
 
 Coming from a computer science background, much of my experience is with
@@ -34,4 +30,4 @@ Google.
 plot(iris)
 ```
 
-![](../images/unnamed-chunk-2-1.png)<!-- -->
+![](../images/unnamed-chunk-1-1.png)<!-- -->
