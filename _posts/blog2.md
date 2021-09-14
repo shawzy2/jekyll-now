@@ -1,7 +1,7 @@
-Programming Background
-================
-David Shaw
-9/14/2021
+---
+layout: post
+title: Programming Background
+---
 
 ## Programming Background
 
